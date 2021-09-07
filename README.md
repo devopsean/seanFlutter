@@ -4,8 +4,8 @@
 **seanFlutter/seanFlutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 /github/languages/count/:user/:repo
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seanonuoha/)
+[okay](www.google.com)
+[[LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seanonuoha/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
