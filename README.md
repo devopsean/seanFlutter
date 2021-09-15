@@ -13,23 +13,19 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 
 
 - 💼 Do you have an idea to execute? or a business to backup with technology? [Email me](mailto:seanonuoha@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
-<a href="https://www.linkedin.com/in/seanonuoha/">
-  <img align="left" alt="Sean's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-**languages and tools:**  
+- 💬 Ask me about anything, I am happy to help.
 
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/flutter.png"></code>
 
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/dart.jpg"></code>
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/firebase.png"></code>
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/mongodb.png"></code>
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/git.png.png"></code>
-<code><img height="100" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/json.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Languages and tools:###
+
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/flutter.png"></code>
+
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/dart.jpg"></code>
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/firebase.png"></code>
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/mongodb.png"></code>
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/git.png.png"></code>
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/json.png"></code>
+
 
 📈 Github stats
 
