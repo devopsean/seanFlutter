@@ -23,7 +23,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/dart.jpg"></code>
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/firebase.png"></code>
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/mongodb.png"></code>
-<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/git.png.png"></code>
+<code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/git.png"></code>
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/json.png"></code>
 
 
