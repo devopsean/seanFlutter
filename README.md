@@ -17,7 +17,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 -- 💬 Ask me about anything, I am happy to help.
 
 
-### Languages and tools:
+## Languages and tools:
 
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/flutter.png"></code>
 
@@ -28,7 +28,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/json.png"></code>
 
 
-📈 Github stats
+#📈 Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanFlutter&theme=dark&layout=compact" />
 <a href="https://github.com/seanFlutter">
