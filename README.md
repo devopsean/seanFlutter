@@ -17,7 +17,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 -- 💬 Ask me about anything, I am happy to help.
 
 
-### Languages and tools:###
+### Languages and tools:
 
 <code><img height="50" src="https://github.com/seanFlutter/Resources/blob/main/Readme/logos/flutter.png"></code>
 
