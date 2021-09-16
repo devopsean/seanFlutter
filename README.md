@@ -8,12 +8,12 @@
 I am [Sean](https://linkedin.com/in/seanonuoha/), a quality-focused developer with a history of succeeding in challenging and team-oriented environments. I build scalable solutions for startups using the Flutter, MongoDb, Firebase and any technology I require to deliver results .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
- <br />
+
  I never stop looking for new tools to learn in the course of my development. In the past, I have completed academic projects using other technologies like python and Excel Visual Basic for Applications.
 I can fit in seamlessly with your team's version control pattern using Git/github in building sustainable solutions that make our lives easier.
 
 
-
+ <br />
 - 💼 Do you have an idea to execute? or a business to backup with technology? [Email me](mailto:seanonuoha@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
 
