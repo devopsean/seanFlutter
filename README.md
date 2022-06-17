@@ -34,6 +34,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 <a href="https://github.com/seanFlutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanFlutter&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
+  
 # Current projects:
 <code><img src="https://github.com/seanFlutter/Resources/blob/main/SpotiCharge/spoticharge_demo.gif"></code>
 
