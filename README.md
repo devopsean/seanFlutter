@@ -38,8 +38,11 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
 # Current projects:
 <code><img src="https://github.com/seanFlutter/Resources/blob/main/SpotiCharge/spoticharge_demo.gif"></code>
 
-  # Cloud Technologies
+  # Cloud Technologies/Certifications
   Amazon Cloud Practitioner(Certified)
+  Ansible
+  CircleCI
+  CodeMagic
   MondoDB (Certified)
   Amazon Amplify
   Google Firebase
