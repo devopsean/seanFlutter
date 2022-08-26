@@ -14,7 +14,7 @@ I can fit in seamlessly with your team's version control pattern using Git/githu
  <br />
  
 -- 💼 Do you have an idea to execute? or a business to backup with technology? [Email me](mailto:seanonuoha@gmail.com) :)
--- 💬 Ask me about anything, I am happy to help!
+-- 💬 Ask me about anything. I am happy to help!
 
 
 ## Languages and tools:
