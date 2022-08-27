@@ -8,7 +8,7 @@ I am [Sean](https://linkedin.com/in/seanonuoha/), a quality-focused Mobile Devop
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
  I never stop looking for new tools to learn in the course of my development. In the past, I have completed academic projects using other technologies like python and Excel Visual Basic for Applications.
-I can fit in seamlessly with your team's version control pattern using Git/github in building sustainable solutions that make our lives easier.
+I can fit in seamlessly with your team's version control pattern using Git in building sustainable solutions that make our lives easier.
 
 
  <br />
